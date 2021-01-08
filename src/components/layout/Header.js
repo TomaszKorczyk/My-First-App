@@ -19,7 +19,7 @@ const headerStyle = {
 
 const linkStyle = {
     color: '#fff',
-    textDecoration: none,
+    textDecoration: 'none',
 }
 
 export default Header;

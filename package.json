@@ -2,7 +2,7 @@
     "name": "my-first-app",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://tomaszkorczyk.github.io/My-First-App/",
+    "homepage": "http://mywebite.com/",
     "dependencies": {
         "@testing-library/jest-dom": "^5.11.8",
         "@testing-library/react": "^11.2.2",
